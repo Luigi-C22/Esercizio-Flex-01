@@ -1,7 +1,8 @@
 body{
     width: 100%;
     background-color: lightpink;
-    font-family: 'Varela Round', sans-serif
+    font-family: 'Varela Round', sans-serif;
+   
 
 }
 .navbar{
@@ -55,8 +56,8 @@ article{
 }
 
 .articleBox{
-
+    box-sizing: border-box;
     max-width: 100%;
-    padding: 10px;
+    padding: 15px 5px 15px 5px;
     background-color: rgb(238, 207, 196);
 }
