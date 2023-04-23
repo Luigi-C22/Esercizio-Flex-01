@@ -1,5 +1,5 @@
 body{
-    width: 100%;
+    width: 98%;
     background-color: lightpink;
     font-family: 'Varela Round', sans-serif;
    
@@ -60,4 +60,11 @@ article{
     max-width: 100%;
     padding: 15px 5px 15px 5px;
     background-color: rgb(238, 207, 196);
+}
+a{
+    text-decoration: none;
+}
+span{
+    font-size: larger;
+    text-align: right;
 }
