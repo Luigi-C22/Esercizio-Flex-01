@@ -19,17 +19,17 @@ body{
 
 .addButton{
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
-    width: 150px;
     font-size: 14px;
     background-color: rgb(247, 247, 129);
     padding: 1%;
     border-radius: 15px;
     border: 0px;
-    margin: 0;
 }
 
 .info{
+    width: 98%;
     display: flex;
     flex-wrap: wrap;
     margin-left: 10%;
@@ -48,7 +48,14 @@ h3{
    
 
 }
+p{
+    text-align: center;
+}
 a{
+    width: 100%;
+    display: flex;
+    justify-content: center;
     text-decoration: none;
     font-size: larger;
+    
 }

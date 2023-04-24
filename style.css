@@ -65,6 +65,9 @@ a{
     text-decoration: none;
 }
 span{
-    font-size: larger;
-    text-align: right;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    font-size: medium;
 }
